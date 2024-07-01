@@ -6,6 +6,6 @@ public class IntRepresentation {
         char h = (int)'h';
         char a = (int)'a';
         char r = (int)'r';    
-        System.out.println(c + "\n" + h + "\n" + a + "\n" + r);
+        System.out.println(c + "," + h + "," + a + "," + r);
     }
 }
