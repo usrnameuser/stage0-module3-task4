@@ -6,6 +6,9 @@ public class IntRepresentation {
         char charH = 72;
         char charA = 65;
         char charR = 82;    
-        System.out.println(charC + charH + charA + charR);
+        System.out.println(charC);
+        System.out.println(charH);
+        System.out.println(charA);
+      System.out.println(charR);  
     }
 }
